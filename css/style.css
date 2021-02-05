@@ -556,6 +556,10 @@ a:hover{
 .heading-team{
     text-align: center;
 }
+    
+.team{
+    flex-direction: column;
+}
 
 .profile .profile-img{
     filter: grayscale(0);
