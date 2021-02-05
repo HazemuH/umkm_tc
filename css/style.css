@@ -561,6 +561,10 @@ a:hover{
     flex-direction: column;
 }
 
+.profiles{
+    margin-bottom: 30px;
+}
+
 .profile .profile-img{
     filter: grayscale(0);
 }
